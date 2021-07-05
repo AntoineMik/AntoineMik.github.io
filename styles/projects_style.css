@@ -1,0 +1,25 @@
+.content-div {
+    width: 100%;
+    height: auto;
+}
+
+.story-content {
+    width: 100%;
+
+}
+
+.intro-project {
+    max-height: 7%;
+	width: 100%;
+	padding-bottom: 3vw;
+}
+
+.intro-text {
+	text-align: left;
+	
+}
+
+.footer-profile {
+    display: flex;
+    flex-flow: row wrap;
+}
